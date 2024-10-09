@@ -22,3 +22,5 @@ Ensure the following permissions are declared in the `AndroidManifest.xml` for a
 ```xml
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+## Now you can use the whole project and description about the locations in Android 
